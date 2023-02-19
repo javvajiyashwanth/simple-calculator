@@ -1,4 +1,4 @@
-# Simple Calculator
+# [Simple Calculator](https://simple-calculator-yj.netlify.app/)
 This is a simple calculator program that is written in HTML, CSS, and JavaScript. It uses Materialize CSS and JavaScript for styling and layout. It has basic calculator functions such as addition, subtraction, multiplication, division, and clear. It also has a backspace button to correct the last digit entered.
 
 ## How to use
